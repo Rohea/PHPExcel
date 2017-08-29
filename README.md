@@ -1,3 +1,7 @@
+# About this Fork
+This is a fork of the PHPExcel library to fix a bug in HLOOKUP. As the original library is not really maintained anymore
+there won't likely be any PR's from this repo to the original.
+
 # PHPExcel - OpenXML - Read, Write and Create spreadsheet documents in PHP - Spreadsheet engine
 PHPExcel is a library written in pure PHP and providing a set of classes that allow you to write to and read from different spreadsheet file formats, like Excel (BIFF) .xls, Excel 2007 (OfficeOpenXML) .xlsx, CSV, Libre/OpenOffice Calc .ods, Gnumeric, PDF, HTML, ... This project is built around Microsoft's OpenXML standard and PHP.
 
